@@ -1,9 +1,8 @@
-\# MaskedLeap3D
-
-
+ MaskedLeap3D
 
 > 一个 Unity 3D 第三人称平台跳跃游戏原型 —— 展示角色控制器、摄像机系统、对象池、事件驱动等 3D 游戏开发核心能力。
 
+🎬 **[观看完整演示视频（B 站）](https://www.bilibili.com/video/BV1xTpG6iEDa)**
 
 
 \---
